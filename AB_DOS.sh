@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #PLEASE REPLACE ADDRESSES######
-VS_ADDR=10.1.20.5
-SRC_ADDR1=10.1.10.7
-SRC_ADDR2=10.1.10.7
-SRC_ADDR3=10.1.10.7
+VS_ADDR=10.1.20.20
+SRC_ADDR1=10.1.10.10
+SRC_ADDR2=10.1.10.10
+SRC_ADDR3=10.1.10.10
 ###############################
 
 stop_flag=0
